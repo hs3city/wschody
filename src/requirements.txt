@@ -1,0 +1,3 @@
+adafruit_vl53l0x
+adafruit_midi
+neopixel
